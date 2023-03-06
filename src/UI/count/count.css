@@ -1,0 +1,24 @@
+.container {
+    background: rgb(0, 0, 0);
+    width: 20rem;
+    margin-left: 38%;
+    margin-top: 5rem;
+    padding: 5rem;
+    border-radius: 15px;
+
+}
+
+p{
+    font-size: 30px;
+    margin-bottom: 2rem;
+}
+
+.pink {
+    color: #77444d;
+
+}
+
+.purple{
+    color: #ffbbff;
+}
+
